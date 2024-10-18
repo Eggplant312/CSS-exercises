@@ -1,0 +1,26 @@
+.odd
+{
+    background-color:#ffc0cb;
+    font-family:Veranda, "DeJaVu Sans", sans-serif;
+}
+
+.bigtype
+
+{
+font-size: 24px;
+}
+
+#numbertwo
+
+{
+color:rgb(33, 33, 158);
+font-size: 36px;
+}
+
+#numberfour
+
+{
+    background-color:rgb(103, 174, 103);
+    font-weight: bold;
+    font-size: 24px
+}
