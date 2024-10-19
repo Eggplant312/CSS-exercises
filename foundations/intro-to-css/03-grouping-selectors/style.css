@@ -1,0 +1,17 @@
+.ordinary .loud
+{
+    font-size:28 px;
+    font-family: Helvetica, 'Times New Roman', sans-serif;
+}
+
+.ordinary
+
+{
+    color:white;
+    background-color:black;
+}
+
+.loud 
+{
+    background-color:yellow;
+}
